@@ -1,0 +1,82 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+
+
+body {
+  background-color: #DB5551;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 16px;
+}
+
+
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #DD5555;
+
+}
+
+
+h2,h3 {
+  color: #DD5555;
+  font-weight: lighter;
+}
+
+a {
+color: #CCCCCC;
+text-decoration: none;
+}
+
+a:hover {
+ color: #DD5555;
+}
+
+
+/* Custom design*/
+
+.card-white {
+  background: white;
+  padding: 20px;
+  box-shadow: 1px 1px 3px rgb(200,200,200);
+  border-radius: 3px;
+  margin: 13px ;
+}
+
+ .btn-red {
+ color: rgb(200,200,200);
+ background: #DD5555;
+ padding: 15px;
+ border-radius: 20px;
+ font-size: 10px;
+}
+
+.btn-red:hover {
+  color:white;
+  background: #DB5551;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.avatar {
+  border-radius: 70%;
+}
+
+.list-lign {
+  list-style: none;
+  padding-left:0;
+}
+
+.list-lign li {
+  display:inline;
+
+}
+
+.container {
+  width: 500px;   /* Set width */
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+.img-circle {
+  border-radius: 70%;
+}
